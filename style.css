@@ -1,0 +1,48 @@
+body{
+background-color: lightseagreen;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#card{
+height: 500px;
+width: 500px;
+background-color: tomato;
+border-radius: 25px;
+padding: 40px;
+margin: 20px auto;
+}
+h1{
+    color: violet;
+}
+
+
+img{
+height: 150px;
+width: 150px;
+border-radius: 50%;
+object-fit: cover;
+}
+
+i{
+color: wheat;
+font-size: 25px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
